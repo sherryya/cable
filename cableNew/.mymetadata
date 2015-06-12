@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cableNew"
+  id="myeclipse.1431418510814"
+  context-root="/cable"
+  j2ee-spec="6.0"
+  archive="cableNew.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
